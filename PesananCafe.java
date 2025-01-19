@@ -6,7 +6,7 @@ package cafecashier;
 
 /**
  *
- * @author Risal Subekti
+ * @author Karina
  */
 public class PesananCafe extends javax.swing.JFrame {
 
